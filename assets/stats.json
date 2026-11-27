@@ -1,0 +1,102 @@
+{
+  "repos": 49,
+  "public": 29,
+  "private": 20,
+  "commits": 864,
+  "products": 37,
+  "live": 11,
+  "language_count": 23,
+  "contributions": 785,
+  "active_days": 42,
+  "longest": 16,
+  "current": 13,
+  "window_total": 785,
+  "peak": 109,
+  "updated": "2026-11-27",
+  "languages": [
+    {
+      "name": "TypeScript",
+      "pct": 42.40002878327154,
+      "color": "#3178c6"
+    },
+    {
+      "name": "Python",
+      "pct": 36.25764484675228,
+      "color": "#3572A5"
+    },
+    {
+      "name": "CSS",
+      "pct": 14.068267123107162,
+      "color": "#663399"
+    },
+    {
+      "name": "JavaScript",
+      "pct": 3.11684026484986,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "Dart",
+      "pct": 1.6937509487269031,
+      "color": "#00B4AB"
+    },
+    {
+      "name": "HTML",
+      "pct": 1.1680961753466266,
+      "color": "#e34c26"
+    },
+    {
+      "name": "PHP",
+      "pct": 0.7845961968329843,
+      "color": "#4F5D95"
+    },
+    {
+      "name": "Java",
+      "pct": 0.24302365386930525,
+      "color": "#b07219"
+    },
+    {
+      "name": "Shell",
+      "pct": 0.08351497257065289,
+      "color": "#89e051"
+    },
+    {
+      "name": "Other",
+      "pct": 0.18423703467269395,
+      "color": "#8b949e"
+    }
+  ],
+  "focus": [
+    {
+      "label": "Telegram bots & Mini Apps",
+      "count": 22
+    },
+    {
+      "label": "Websites & e-commerce",
+      "count": 10
+    },
+    {
+      "label": "AI agents & LLM tooling",
+      "count": 8
+    },
+    {
+      "label": "CRM \u00b7 ERP \u00b7 POS",
+      "count": 7
+    },
+    {
+      "label": "Payments & fintech",
+      "count": 7
+    },
+    {
+      "label": "DevOps & infrastructure",
+      "count": 7
+    },
+    {
+      "label": "Developer tools",
+      "count": 5
+    },
+    {
+      "label": "EdTech & multi-tenant SaaS",
+      "count": 3
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "user": "ismoillooff",
+  "name": "Hayotbek Ismoilov",
+  "eyebrow": "FULL-STACK SOFTWARE ENGINEER  ·  UZBEKISTAN",
+  "tagline": "I design and ship business software end to end — database, API, UI, bots and servers.",
+  "roles": [
+    "Founder · MyWeb & Nyro Soft",
+    "Team Lead · Maxshi Shop",
+    "Engineer · MYPRO & MYCOM"
+  ],
+  "phrases": [
+    "building CRM & ERP systems",
+    "shipping multi-tenant EdTech SaaS",
+    "automating business with Telegram bots",
+    "wiring AI agents into real products"
+  ],
+  "terminal_stack": "python typescript django react",
+  "exclude": {
+    "names": [
+      "ismoillooff",
+      "Perfect-Panenl-SMM-PANEL-"
+    ],
+    "topics": [
+      "disaster-recovery"
+    ],
+    "description_regex": "(?i)chat export|\\barchive\\b"
+  },
+  "families": [
+    "^EduTester",
+    "^ConDor(Full|-Source)$",
+    "^AvtoTester",
+    "^Tanishuv",
+    "^Card-?Xabar$",
+    "^Zayafka"
+  ],
+  "live": [
+    {
+      "name": "EduTester",
+      "url": "https://edutester.uz",
+      "what": "LMS & CRM for education centers and driving schools"
+    },
+    {
+      "name": "AvtoTester",
+      "url": "https://avtotester.uz",
+      "what": "Driving-licence exam preparation platform + Telegram bot"
+    },
+    {
+      "name": "Con-Dor",
+      "url": "https://con-dor.uz",
+      "what": "Army & outdoor store chain — storefront on top of a full ERP"
+    },
+    {
+      "name": "MYPRO",
+      "url": "https://mypro.uz",
+      "what": "Manufacturer catalog: all-in-ones, monitors, interactive panels"
+    },
+    {
+      "name": "JAWANTI PRO",
+      "url": "https://jawanti.uz",
+      "what": "Locally assembled PCs for schools & public procurement"
+    },
+    {
+      "name": "ProGaming",
+      "url": "https://progaming.uz",
+      "what": "Gaming hardware storefront on the shared Django CMS"
+    },
+    {
+      "name": "Altima Shop",
+      "url": "https://altimashop.uz",
+      "what": "Tactical & outdoor footwear store on Cloudflare Workers"
+    },
+    {
+      "name": "Profi Pereezd",
+      "url": "https://profi-pereezd.uz",
+      "what": "Moving-service sales site with price calculator & Telegram leads"
+    },
+    {
+      "name": "Tanishuv AI",
+      "url": "https://t.me/TanishuvAiBot",
+      "what": "Marriage-focused matchmaking bot + Mini App with AI matching"
+    },
+    {
+      "name": "Asiastore Operators",
+      "url": "https://t.me/AsiaOperatorsBot",
+      "what": "Sales-report bot for call-center operators → Google Sheets"
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://ismoillooff.uz",
+      "what": "Personal site — all projects and case studies"
+    }
+  ],
+  "featured": [
+    {
+      "repo": "Mobile-Preview",
+      "title": "Mobile Preview",
+      "badge": "DESKTOP APP",
+      "blurb": "Windows emulator that previews web projects in real iPhone, Galaxy, Pixel and iPad frames — DevTools-protocol emulation, live reload, QR hand-off.",
+      "tags": [
+        "Electron",
+        "JavaScript",
+        "CDP",
+        "Live reload"
+      ],
+      "link": "https://github.com/ismoillooff/Mobile-Preview/releases/latest"
+    },
+    {
+      "repo": "NafCrm",
+      "title": "Naf CRM",
+      "blurb": "CRM / ERP for NafGroup: clients, orders, warehouse, payroll, finance and reports — real-time WebSockets, RBAC and JWT auth.",
+      "tags": [
+        "Django REST",
+        "React",
+        "Channels",
+        "Redis",
+        "Docker"
+      ]
+    },
+    {
+      "repo": "Mycom-Projects",
+      "title": "MYCOM Platform",
+      "live": "mypro.uz",
+      "blurb": "Monorepo behind mypro.uz, progaming.uz and jawanti.uz: Next.js and Vite frontends on one shared Django REST headless CMS.",
+      "tags": [
+        "Next.js",
+        "Django REST",
+        "PostgreSQL",
+        "next-intl"
+      ]
+    },
+    {
+      "repo": "Con-Dor",
+      "title": "Con-Dor Store",
+      "live": "con-dor.uz",
+      "blurb": "E-commerce platform for a tactical & outdoor store chain: catalog, cart, orders, branches, multilingual CMS, Telegram alerts.",
+      "tags": [
+        "React",
+        "Django",
+        "FastAPI",
+        "PostgreSQL",
+        "JWT"
+      ]
+    },
+    {
+      "repo": "Altima-Shop",
+      "title": "Altima Shop",
+      "live": "altimashop.uz",
+      "blurb": "Online store for tactical and outdoor footwear, built with TanStack Start and deployed on Cloudflare Workers.",
+      "tags": [
+        "TanStack Start",
+        "React 19",
+        "shadcn/ui",
+        "Cloudflare"
+      ]
+    },
+    {
+      "repo": "MyWeb",
+      "title": "MyWeb Agency",
+      "blurb": "MyWeb digital agency site: Three.js / GLSL scenes, GSAP + Lenis smooth scrolling, full uz / ru / en localization.",
+      "tags": [
+        "React 19",
+        "Three.js",
+        "GSAP",
+        "GLSL",
+        "i18n"
+      ],
+      "language": "TypeScript"
+    },
+    {
+      "repo": "seller-agent",
+      "title": "Seller Agent",
+      "badge": "AI AGENT",
+      "blurb": "AI sales manager for a company Telegram account — Telethon + Anthropic / OpenRouter, Azure voice, consent-based lead hand-off.",
+      "tags": [
+        "Python",
+        "Telethon",
+        "Anthropic",
+        "OpenRouter"
+      ]
+    },
+    {
+      "repo": "Telegram-Claude-Agent",
+      "title": "Telegram Claude Agent",
+      "badge": "AI AGENT",
+      "blurb": "Turns a Telegram account into an AI sales rep: GramJS userbot bridged to Claude Code via MCP; leads go to Google Sheets.",
+      "tags": [
+        "TypeScript",
+        "Bun",
+        "MCP",
+        "GramJS"
+      ]
+    },
+    {
+      "repo": "Agents-Comand",
+      "title": "Agents Command",
+      "badge": "AI TOOLING",
+      "blurb": "Ready-made team of Claude Code subagents — backend, frontend, infra, data, product, growth and QA roles.",
+      "tags": [
+        "Claude Code",
+        "Multi-agent",
+        "Prompt engineering"
+      ]
+    },
+    {
+      "repo": "gemini-image",
+      "title": "Gemini Image Skill",
+      "badge": "AI TOOLING",
+      "blurb": "Claude skill that generates and edits images with Google Gemini, keeps verified originals and runs visual QA.",
+      "tags": [
+        "Python",
+        "Gemini API",
+        "Claude skill",
+        "Playwright"
+      ]
+    }
+  ],
+  "private": [
+    {
+      "match": "^EduTester",
+      "title": "EduTester LMS",
+      "live": "edutester.uz",
+      "blurb": "Multi-tenant LMS for education centers & driving schools: test banks, student app, groups, schedule, attendance, billing, custom domains.",
+      "tags": [
+        "Django REST",
+        "React 19",
+        "Multi-tenant",
+        "Telegram bot"
+      ]
+    },
+    {
+      "match": "^ConDor",
+      "title": "Con-Dor ERP",
+      "live": "con-dor.uz",
+      "blurb": "ERP for an army & outdoor store chain: CRM, branch panel, POS, warehouse, payments & finance, Android apps, Telegram AI agent.",
+      "tags": [
+        "Django",
+        "FastAPI",
+        "React",
+        "Capacitor",
+        "AI agent"
+      ]
+    },
+    {
+      "match": "^AvtoTester",
+      "title": "AvtoTester.uz",
+      "live": "avtotester.uz",
+      "blurb": "Driving-licence exam prep platform: tests by ticket and topic, results, admin panel and Telegram bot, with encrypted backups.",
+      "tags": [
+        "Django",
+        "React",
+        "Vite",
+        "Telegram bot"
+      ]
+    },
+    {
+      "match": "^AsiaStore",
+      "title": "AsiaStore CRM",
+      "blurb": "Sales CRM with admin, sales-manager and seller workspaces, Meta lead-ads intake, Telegram bot and Google Sheets sync.",
+      "tags": [
+        "Django",
+        "React",
+        "Meta Leads",
+        "Google Sheets"
+      ]
+    },
+    {
+      "match": "^edu-tech$",
+      "title": "EDU TECH",
+      "blurb": "Multi-tenant education SaaS monorepo: NestJS API, Next.js web app, Flutter mobile apps and a Telegram bot.",
+      "tags": [
+        "NestJS",
+        "Next.js",
+        "Flutter",
+        "TypeScript"
+      ]
+    },
+    {
+      "match": "^RunSmm",
+      "title": "RunSMM Platform",
+      "blurb": "SMM platform: Telegram bot, Mini App and admin panel — catalog, orders & refills, balances, Click / Payme and partner API.",
+      "tags": [
+        "aiogram 3",
+        "FastAPI",
+        "React",
+        "Payme · Click"
+      ]
+    }
+  ],
+  "focus": [
+    {
+      "label": "CRM · ERP · POS",
+      "topics": [
+        "crm",
+        "erp",
+        "pos",
+        "pos-system",
+        "warehouse",
+        "warehouse-management",
+        "inventory-management",
+        "sales-management",
+        "payroll",
+        "applicant-tracking",
+        "hr-automation"
+      ]
+    },
+    {
+      "label": "Telegram bots & Mini Apps",
+      "topics": [
+        "telegram-bot",
+        "telegram-mini-app",
+        "userbot",
+        "telegram-userbot",
+        "telethon",
+        "telegram-webapp",
+        "gramjs"
+      ]
+    },
+    {
+      "label": "Websites & e-commerce",
+      "topics": [
+        "ecommerce",
+        "online-store",
+        "landing-page",
+        "corporate-website",
+        "agency-website",
+        "static-site",
+        "headless-cms",
+        "multi-site"
+      ]
+    },
+    {
+      "label": "AI agents & LLM tooling",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "gemini",
+        "llm",
+        "openrouter",
+        "ai-chatbot",
+        "anthropic",
+        "ai-assistant",
+        "ai-tools",
+        "mcp"
+      ]
+    },
+    {
+      "label": "Payments & fintech",
+      "topics": [
+        "payme",
+        "click",
+        "click-uz",
+        "payment-integration",
+        "fintech",
+        "card-payments",
+        "billing",
+        "telegram-stars",
+        "payment-gateway"
+      ]
+    },
+    {
+      "label": "EdTech & multi-tenant SaaS",
+      "topics": [
+        "edtech",
+        "lms",
+        "saas",
+        "multi-tenant"
+      ]
+    },
+    {
+      "label": "DevOps & infrastructure",
+      "topics": [
+        "docker",
+        "nginx",
+        "devops",
+        "systemd",
+        "cloudflare",
+        "cloudflare-workers",
+        "hetzner",
+        "vps"
+      ]
+    },
+    {
+      "label": "Developer tools",
+      "topics": [
+        "developer-tools",
+        "desktop-app",
+        "claude-skill",
+        "dataset",
+        "code-generator",
+        "exe-builder",
+        "frontend-tools"
+      ]
+    }
+  ]
+}
